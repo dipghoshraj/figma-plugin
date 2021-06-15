@@ -1,0 +1,7 @@
+{
+  "name": "finder",
+  "id": "986715649573283772",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
